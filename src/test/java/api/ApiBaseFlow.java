@@ -1,3 +1,5 @@
+package api;
+
 import io.restassured.response.Response;
 import org.testng.annotations.BeforeClass;
 import java.net.URI;

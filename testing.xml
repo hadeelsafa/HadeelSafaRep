@@ -3,7 +3,7 @@
 <suite name="API Automation">
     <test name="Rest Assured">
        <classes>
-           <class name="ApiAutomationTestFlow"></class>
+           <class name="api.ApiAutomationTestFlow"></class>
        </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

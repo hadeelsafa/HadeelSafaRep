@@ -1,4 +1,6 @@
+package api;
 
+import api.ApiBaseFlow;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import org.testng.Assert;
 import org.testng.annotations.Test;
